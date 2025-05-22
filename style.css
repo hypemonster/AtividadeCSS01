@@ -102,6 +102,10 @@ main{
     margin: 15px;
 }
 
+#text{
+    text-align: center;
+}
+
 #video{
     text-align: center;
 }
