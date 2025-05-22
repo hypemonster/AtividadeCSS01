@@ -1,0 +1,147 @@
+/*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: pink;
+}
+
+header{
+    padding: 15px;
+}
+
+header nav{
+    background-color: black;
+    list-style-type: none;
+}
+
+nav img{
+    height: 10pc;
+    height: 5pc;
+}
+
+nav ul li{
+    display: inline-flex;
+}
+
+nav ul li button{
+    color: transparent;
+}
+
+a{
+    text-decoration: none;
+    border: 10px;
+}
+
+a:hover{
+    color: darkorange;
+}*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: #fff;
+}
+
+header {
+    background-color: #E8DDCC;
+}
+
+header nav {
+    /*padding: 0pc;
+    display: flex;*/
+    
+}
+
+header nav ul {
+    display: inline-block;
+    list-style-type: none;
+    width: 40rem;
+}
+
+header nav img {
+    height: 10pc;
+    height: 5pc;
+}
+
+header nav ul li{
+    padding: 2px;
+    width: 10pc;
+    display: grid;
+    float: left;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+header nav ul li button{
+    background-color: lightsalmon;
+    font-size: 1pc;
+    border: none;
+
+}
+
+header nav ul li button:hover{
+    background-color: saddlebrown;
+}
+
+main{
+    background-color: tan;
+    border-radius: 10px;
+    padding: 2rem;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin: 15px;
+}
+
+#video{
+    text-align: center;
+}
+
+.divproduto{
+    border-radius: 2pc;
+    padding: 2pc;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin: 5px;
+}
+
+.divproduto img{
+    height: 25pc;
+}
+
+.divproduto:hover{
+    background-color: darksalmon;
+}
+
+
+footer{
+    background-color: tan;
+    border-radius: 10px;
+    padding: 2rem;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin: 15px;
+}
+
+
+
+
+
+
+
+
+
+
